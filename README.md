@@ -9,3 +9,6 @@ Used pandas to find the most dangerous drug and district with most deaths.
 
 ### Visualization
 Used Matplotlib and Seaborn to visualize the analysed data.
+
+### Conclusion
+Heroin is the cause of most deaths with Hartford as the district with most deaths.
